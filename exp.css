@@ -1,0 +1,227 @@
+        <header>
+            <nav>
+                <div id="in">
+                    <div id="icon"></div>
+                    <div id="name">RITESH</div>
+                </div>
+                <div id="nav_part2">
+                    <h4><a href="#page">Home</a></h4>
+                    <h4><a href="#page2">About</a></h4>
+                    <h4><a href="#page3">Skills</a></h4>
+                    <h4><a href="#page4">Project</a></h4>
+                    <h4><a href="#page5">Contect</a></h4>
+                </div>
+            </nav>
+        </header>
+        <div class="main">
+            <div id="page">
+                <div id="blur">
+                    <div id="intro">
+                        RITESH SINGH
+                    </div>
+                    <div class="intro2">
+                        A SOFTWARE ENGINEER & FROENTEND DEVELOPER
+                    </div>
+                    <!-- <div class="intro3">
+                        A Result-Oriented Web Developer building and managing Websites and Web Applications that leads to the success of the overall product...
+                    </div> -->
+                </div>
+            </div>
+
+
+            <div id="page2">
+                <div class="about">
+                    <div class="main_about">
+                        <div class="main_wave">
+                            <div class="wave"></div>
+                            <div class="wave"></div>
+                            <div class="wave"></div>
+                            <h1 id="about">&lt;About/&gt;</h1>
+                            <p class="about1">
+                                "Highly skilled Software Engineer with a passion for creating efficient, scalable, and
+                                innovative solutions. Proficient in multiple programming languages including Java, Python,
+                                and JavaScript.
+                                Experienced in full-stack development, with expertise in both front-end and back-end
+                                technologies. Proven ability to collaborate effectively in cross-functional teams to deliver
+                                high-quality
+                                software products within tight deadlines. Strong problem-solving skills and a commitment to
+                                continuous
+                                learning and improvement. Familiar with Agile methodologies and capable of adapting to
+                                dynamic project
+                                requirements. Excellent communication skills and ability to convey technical concepts to
+                                both
+                                technical and non-technical stakeholders. Dedicated to maintaining code quality through code
+                                reviews,
+                                testing, and documentation. Committed to staying abreast of emerging technologies and
+                                industry trends to
+                                drive innovation and stay competitive."
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="page3">
+                <div id="black">
+                    <div id="skills">
+                        <div class="skills1">&lt;Skills/&gt;</div>
+                        <div id="Skills_back">
+                            <div class="skills2">
+                                <div class="animate">
+                                    <div class="animate2">
+                                        <div class="blob"></div>
+                                        <div class="blob3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="maincontainer">
+                                <div class="thecard">
+                                    <div class="thefront">
+                                        <h1 class="Coding">#Froentend</h1>
+                                    </div>
+                                    <div class="theback">
+                                        <ul>
+                                            <li><i class="fa-brands fa-html5" style="color: #f16a30;"></i> HTML</li>
+                                            <li><i class="fa-brands fa-css3-alt" style="color: #39acdd;"></i> CSS</li>
+                                            <li><i class="fa-brands fa-js" style="color: #f0dc55"></i> JavaScript</li>
+                                            <li><i class="fa-brands fa-python" style="color: #4a86b5"></i> Python</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skills3">
+                            <div class="animate">
+                                <div class="animate2">
+                                    <div class="blob"></div>
+                                    <div class="blob3"></div>
+                                    <div class="card">
+                                        <div class="first-content">
+                                            <span>
+                                                <h1>.Backend</h1>
+                                            </span>
+                                        </div>
+                                        <div class="second-content">
+                                            <span>
+                                                <ul>
+                                                    <li><i class="fa-solid fa-database"></i> SQL & DBMS</li>
+                                                    <li><i class="fa-brands fa-php"></i> PHP</li>
+                                                </ul>
+                                                <div id="C2">
+                                                    <div id="C"></div>
+                                                    <div class="c3">C++</div>
+                                                </div>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="skills4">
+                            <div class="animate">
+                                <div class="animate2">
+                                    <div class="blob"></div>
+                                    <div class="blob3"></div>
+                                </div>
+                                <div class="card3">
+                                    <h1 class="Coding">Extra</h1>
+                                    <ul class="ul">
+                                        <li><i class="fa-solid fa-globe"></i> Network Basics</li>
+                                        <li><i class="fa-solid fa-plug"></i> IOT</li>
+                                        <li><i class="fa-solid fa-computer"></i> SAAD</li>
+                                        <li><i class="fa-solid fa-file-excel"></i> MS Office</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="page4">
+                <div id="project">
+                    <h1>&lt;Skills/&gt;</h1>
+                </div>
+                <div class="div_hole">
+                    <div class="container">
+                        <label for="checkbox" id="clickHandler"></label>
+                        <button id="button">
+                            <p id="to-launch">Mobile</p>
+                        </button>
+                        <div class="shuttle-wrapper">
+                        </div>
+                    </div>
+                </div>
+                <div class="project_animate">
+                    <div class="project_animate1">
+                        <div class="project_blob"></div>
+                        <div class="project_blob2"></div>
+                        <div class="mobile_details"></div>
+                    </div>
+                </div>
+                <div class="div_hole1">
+                    <div class="container">
+                        <label for="checkbox" id="clickHandler"></label>
+                        <button id="button">
+                            <p id="to-launch">Mobile</p>
+                        </button>
+                        <div class="shuttle-wrapper">
+                        </div>
+                    </div>
+                </div>
+                <div class="project_animate2">
+                    <div class="project_animate1">
+                        <div class="project_blob"></div>
+                        <div class="project_blob2"></div>
+                        <div class="mobile_details"></div>
+                    </div>
+                </div>
+                <div class="div_hole2">
+                    <div class="container">
+                        <label for="checkbox" id="clickHandler"></label>
+                        <button id="button">
+                            <p id="to-launch">Insta</p>
+                        </button>
+                        <div id="shuttle-wrapper">
+                        </div>
+                    </div>
+                </div>
+                <div class="project_animate3">
+                    <div class="project_animate1">
+                        <div class="project_blob"></div>
+                        <div class="project_blob2"></div>
+                        <div class="mobile_details"></div>
+                    </div>
+                </div>
+                <div class="div_hole3">
+                    <div class="container">
+                        <label for="checkbox" id="clickHandler"></label>
+                        <button id="button">
+                            <p id="to-launch">Mobile</p>
+                        </button>
+                        <div id="shuttle-wrapper">
+                        </div>
+                    </div>
+                </div>
+                <div class="project_animate4">
+                    <div class="project_animate1">
+                        <div class="project_blob"></div>
+                        <div class="project_blob2"></div>
+                        <div class="mobile_details"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="page5">
+                <div class="Contect">Contect</div>
+                <div class="thnks">
+                    Feel free to Contect me by submitting the form below and i will get back to you as soon as possible.
+                </div>
+                <form action="form">
+                    <p>Name</p>
+                    <input type="text" name="name" id="" placeholder="Enter Your Name" size="50">
+                    <p>Email</p>
+                    <input type="email" name="email" id="" placeholder="Enter Your Email id" size="50">
+                    <p>Massage</p>
+                    <textarea name="massage" id="massage" cols="30" rows="10" placeholder="Enter Any Massage......" ></textarea>
+                    <button name="submit"><a href="#submit">Submit</a></button>
+                </form>
+            </div>
+        </div>
